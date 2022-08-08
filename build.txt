@@ -1,0 +1,3 @@
+displayName = Terraria Shipuden
+author = KopiKing6
+version = 0.1

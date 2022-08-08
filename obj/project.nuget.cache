@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n//3YDQY19UF4/5AQRVpmyNFTb4W9UK3tstgWpxcz4IHa2/wA9JLjylhOPtBMu+hu94wibH9dbapBYA0c9uLow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tosca\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Naruto\\Naruto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tosca\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
